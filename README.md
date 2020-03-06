@@ -1,6 +1,13 @@
 # backend-challenge-graphql
 Backend Challenge Graphql
 
+instalar dependencias
+
+yarn ou npm install
+
+Para executar o projeto
+
+yarn dev
 
 Fazer a busca por planetas
 
